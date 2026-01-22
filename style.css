@@ -34,7 +34,7 @@ font-size: 30px;
 
 .right-side{
     display: flex;
-    align-items: end;
+    align-content: center;
     background-color: #e6f6ff;
     padding: 10px;
     border-radius: 10px;
@@ -71,6 +71,7 @@ h1{
 .left-content{
     padding-top: 30px;
     width: 54%;
+    align-content: center;
 }
 p{
     padding-right: 38px;
@@ -95,4 +96,5 @@ p{
 }
 img{
     width: 500px;
+    align-content: center;
 }
